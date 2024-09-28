@@ -8,10 +8,6 @@
 </template>
 
 <script lang="ts" setup>
-    defineProps({
-        title: String,
-        subtitle: String
-    })
 </script>
 
 <style lang="css" scoped>
